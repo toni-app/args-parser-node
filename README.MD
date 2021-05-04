@@ -14,7 +14,7 @@ will return the object
     args: ['firstArg','secondArg'],
     options: {
         o: true,
-        annotherOption: true,
+        anotherOption: true,
         t: '45'
     }
 }
