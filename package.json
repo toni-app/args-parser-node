@@ -2,7 +2,7 @@
   "name": "node-args-parser",
   "version": "0.0.1",
   "description": "Argument parser for Javascript applications.",
-  "main": "index.js",
+  "main": "build/args.js",
   "scripts": {
     "test": "mocha test/**/*.test.ts -r ts-node/register",
     "build": "tsc",
